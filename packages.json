@@ -2,5 +2,9 @@
     {
         "package": "relic",
         "url": "https://github.com/ecohealthalliance/relic"
+    },
+    {
+        "package": "fasterize",
+        "url": "hhttps://github.com/ecohealthalliance/fasterize"
     }
 ]
