@@ -6,5 +6,23 @@
     {
         "package": "fasterize",
         "url": "hhttps://github.com/ecohealthalliance/fasterize"
-    }
+    },
+    {
+        "package": "ehallm",
+        "url": "hhttps://github.com/ecohealthalliance/ehallm"
+    },
+    
+    {
+        "package": "ehastyle",
+        "url": "hhttps://github.com/ecohealthalliance/ehastyle"
+    },
+    {
+        "package": "airtabler",
+        "url": "hhttps://github.com/ecohealthalliance/airtabler"
+    },
+    {
+        "package": "containerTemplateUtils",
+        "url": "hhttps://github.com/ecohealthalliance/containerTemplateUtils"
+    },
+    
 ]
