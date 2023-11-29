@@ -5,24 +5,22 @@
     },
     {
         "package": "fasterize",
-        "url": "hhttps://github.com/ecohealthalliance/fasterize"
+        "url": "https://github.com/ecohealthalliance/fasterize"
     },
     {
         "package": "ehallm",
-        "url": "hhttps://github.com/ecohealthalliance/ehallm"
+        "url": "https://github.com/ecohealthalliance/ehallm"
     },
-    
     {
         "package": "ehastyle",
-        "url": "hhttps://github.com/ecohealthalliance/ehastyle"
+        "url": "https://github.com/ecohealthalliance/ehastyle"
     },
     {
         "package": "airtabler",
-        "url": "hhttps://github.com/ecohealthalliance/airtabler"
+        "url": "https://github.com/ecohealthalliance/airtabler"
     },
     {
         "package": "containerTemplateUtils",
-        "url": "hhttps://github.com/ecohealthalliance/containerTemplateUtils"
-    },
-    
+        "url": "https://github.com/ecohealthalliance/containerTemplateUtils"
+    }
 ]
