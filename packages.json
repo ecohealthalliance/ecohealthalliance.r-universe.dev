@@ -26,4 +26,5 @@
     {
         "package": "arrow",
         "url":  "https://github.com/apache/arrow@apache-arrow-14.0.1"
+    }
 ]
