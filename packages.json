@@ -22,5 +22,8 @@
     {
         "package": "containerTemplateUtils",
         "url": "https://github.com/ecohealthalliance/containerTemplateUtils"
-    }
+    },
+    {
+        "package": "arrow",
+        "url":  "https://github.com/apache/arrow@apache-arrow-14.0.1"
 ]
