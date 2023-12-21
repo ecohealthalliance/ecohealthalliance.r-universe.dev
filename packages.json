@@ -24,8 +24,7 @@
         "url": "https://github.com/ecohealthalliance/containerTemplateUtils"
     },
     {
-        "package": "arrow",
-        "url":  "https://github.com/apache/arrow",
-        "branch": "apache-arrow-14.0.1"
+        "package": "doltr",
+        "url": "https://github.com/ecohealthalliance/doltr"
     }
 ]
