@@ -26,5 +26,10 @@
     {
         "package": "doltr",
         "url": "https://github.com/ecohealthalliance/doltr"
+    },
+    {
+        "package": "Rpostgres",
+        "url": "https://github.com/ecohealthalliance/RPostgres",
+        "branch": "doltgres-compatibility" 
     }
 ]
