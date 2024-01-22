@@ -34,7 +34,7 @@
     },
     {
         "package": "mclustAddonsEHA",
-        "url": "https://github.com/ecohealthalliance/mclustAddons",
+        "url": "https://github.com/ecohealthalliance/mclustAddonsEHA",
         "branch": "working"
     }
 ]
