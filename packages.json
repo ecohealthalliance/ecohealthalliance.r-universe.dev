@@ -31,5 +31,10 @@
         "package": "RPostgres",
         "url": "https://github.com/ecohealthalliance/RPostgres",
         "branch": "doltgres-compatibility" 
+    },
+    {
+        "package": "mclustAddonsEHA",
+        "url": "https://github.com/ecohealthalliance/mclustAddons",
+        "branch": "working"
     }
 ]
