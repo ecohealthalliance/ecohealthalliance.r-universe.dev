@@ -36,5 +36,10 @@
         "package": "mclustAddonsEHA",
         "url": "https://github.com/ecohealthalliance/mclustAddonsEHA",
         "branch": "working"
+    },
+        {
+        "package": "ohcleandat",
+        "url": "https://github.com/ecohealthalliance/ohcleandat",
+        "branch": "main"
     }
 ]
