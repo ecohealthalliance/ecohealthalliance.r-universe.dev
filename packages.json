@@ -4,10 +4,6 @@
         "url": "https://github.com/ecohealthalliance/relic"
     },
     {
-        "package": "fasterize",
-        "url": "https://github.com/ecohealthalliance/fasterize"
-    },
-    {
         "package": "ehallm",
         "url": "https://github.com/ecohealthalliance/ehallm"
     },
